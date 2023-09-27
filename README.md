@@ -1,6 +1,8 @@
 # Devops-engineer-Assessment
 Cloud Architect Assessment | Devops Architect Assessment | Devops engineer Assessment
+Part one: Please see main.tf file AWS/Terraform completed assessment. 
 
+Part two: 
 Two CLI commands that expose: 
   1. One command to list the files in the S3 bucket created in the first step? 
       
