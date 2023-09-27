@@ -1,5 +1,5 @@
 # Devops-engineer-Assessment
-Cloud Architect Assessment | Devops Architect Assessment | Devops engineer Assessment
+Cloud Architect Assessment | Devops Architect Assessment | Devops engineer Assessment | 
 
 Part one: Please see main.tf file AWS/Terraform completed assessment. 
 
